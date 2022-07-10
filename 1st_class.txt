@@ -1,0 +1,14 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것 
+
+- 아직 없는데...
+
+
+2. 1주차 주요 개념 키워드 적어보기
+
+- Git | Sourcetree
+- version control | commit
+- push | pull
+- local repo | remote repo (reposity)
+
+#LocalRepo_Push 
+#RemoteRepo_Pull
